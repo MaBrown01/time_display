@@ -1,0 +1,23 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+  margin: 0px;
+  padding:0px;
+  front-family: sans-serif;
+  background: black;
+
+}
+
+h1 {
+  color: blue;
+  border : red 5px;
+  width: 250px;
+  border: 4px dashed pink;
+  text-align: center;
+  margin: auto;
+  padding: 30px;
+  background-color: orange;
+
+
+}
